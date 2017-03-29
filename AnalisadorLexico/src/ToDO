@@ -1,0 +1,6 @@
+Classe Lexico:
+	- identificaTokens
+	- criaListaDeVariaveis
+	- verificaVariavel
+	- modularização de alguns métodos
+	- testes
